@@ -20,7 +20,7 @@
 #include <Adafruit_BME280.h>
 
 // Don't touch this ;-)
-#define FU_PROFILE
+// #define FU_PROFILE
 
 #ifdef FU_PROFILE
 #include "Settings.h"
