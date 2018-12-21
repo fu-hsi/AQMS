@@ -332,3 +332,9 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+# Visual Micro
+__vm/
+
+# Private files
+Settings.h
