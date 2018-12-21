@@ -1,5 +1,7 @@
 /**
- * Air Quality Monitoring Station by Fu-Hsi
+ * Air Quality Monitoring Station
+ * Copyright (c) 2018 fu-hsi
+ * MIT License
  */
 
 // ESP

@@ -1,4 +1,10 @@
 <?php
+/**
+ * ws.php - Web Service
+ * Copyright (c) 2018 fu-hsi
+ * MIT License
+ */
+
 error_reporting(0);
 ini_set('display_errors', 0);
 date_default_timezone_set('Europe/Warsaw');
