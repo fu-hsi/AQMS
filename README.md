@@ -55,7 +55,7 @@ This is very imporant for OTA update.
 I don't have necessary components for Fritzing, sorry...
 
 | Component       | WeMos           | Note
-| --------------- | --------------- |
+| --------------- | --------------- | ---------------
 | Debug output    | D4              |
 | Battery monitor | A1              | 100k resistor in series (max. 4.2V).
 | PMS7003         | TX  => RX<br>RX  => TX<br>VCC => 5V<br>GND   => GND | Disconnect before programming via a usb port!
@@ -74,7 +74,7 @@ I testet many sensors... The following list shows my ranking.
 | 4       | BME280  | Temperature, Humidity, Pressure.
 | 5       | DHT22 (AM2302) | Temperature, Humidity.
 
-Don't use BME280 for measuring temperature... I get readings overstated more than 2°C.  
+Don't use BME280 for measuring temperature... I get readings overstated more than 2Â°C.  
 DHT22 is also a bad choice for measuring humidity.  
 Best combo for me is SHT31-D with BMP280, but BMP280 stopped working properly before publishing this project and I use BME280 now.
 
@@ -105,7 +105,7 @@ Best combo for me is SHT31-D with BMP280, but BMP280 stopped working properly be
 Up to **8 hours** with listed conditions:
 - Default configuration
 - Li-Ion ~1500mAh
-- Temperature ~3°C
+- Temperature ~3Â°C
 
 ## Photos
 
